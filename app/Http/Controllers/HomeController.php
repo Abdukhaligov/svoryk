@@ -7,4 +7,7 @@ class HomeController extends Controller {
     return view('home');
   }
 
+  public function login() {
+    return view('login');
+  }
 }
