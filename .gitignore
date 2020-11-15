@@ -1,6 +1,5 @@
 .idea
 /vendor
-/nova
 /node_modules
 /public/hot
 /public/storage
