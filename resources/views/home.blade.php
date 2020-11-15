@@ -123,11 +123,11 @@
               <li class="menu-item-has-children active">
                 <a href="#">Home</a>
                 <ul class="sub-menu">
-                  <li><a href="index.html">Home 1</a></li>
-                  <li><a href="index-2.html">Home 2</a></li>
-                  <li><a href="index-3.html">Home 3</a></li>
-                  <li><a href="index-4.html">Home 4</a></li>
-                  <li><a href="index-5.html">Home 5</a></li>
+                  <li><a href="#">Home 1</a></li>
+                  <li><a href="#">Home 2</a></li>
+                  <li><a href="#">Home 3</a></li>
+                  <li><a href="#">Home 4</a></li>
+                  <li><a href="#">Home 5</a></li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
@@ -136,37 +136,37 @@
                   <li class="menu-item-has-children">
                     <a href="#">Shop Layouts</a>
                     <ul class="sub-menu">
-                      <li><a href="shop.html">shop</a></li>
-                      <li><a href="shop-fullwidth.html">Full Width</a></li>
-                      <li><a href="shop-fullwidth-list.html">Full Width list</a>
+                      <li><a href="#">shop</a></li>
+                      <li><a href="#">Full Width</a></li>
+                      <li><a href="#">Full Width list</a>
                       </li>
-                      <li><a href="shop-right-sidebar.html">Right Sidebar </a>
+                      <li><a href="#">Right Sidebar </a>
                       </li>
-                      <li><a href="shop-right-sidebar-list.html"> Right Sidebar
+                      <li><a href="#"> Right Sidebar
                           list</a></li>
-                      <li><a href="shop-list.html">List View</a></li>
+                      <li><a href="#">List View</a></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="#">other Pages</a>
                     <ul class="sub-menu">
-                      <li><a href="cart.html">cart</a></li>
-                      <li><a href="wishlist.html">Wishlist</a></li>
-                      <li><a href="checkout.html">Checkout</a></li>
-                      <li><a href="my-account.html">my account</a></li>
-                      <li><a href="404.html">Error 404</a></li>
+                      <li><a href="#">cart</a></li>
+                      <li><a href="#">Wishlist</a></li>
+                      <li><a href="#">Checkout</a></li>
+                      <li><a href="#">my account</a></li>
+                      <li><a href="#">Error 404</a></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="#">Product Types</a>
                     <ul class="sub-menu">
-                      <li><a href="product-details.html">product details</a>
+                      <li><a href="#">product details</a>
                       </li>
-                      <li><a href="product-sidebar.html">product sidebar</a>
+                      <li><a href="#">product sidebar</a>
                       </li>
-                      <li><a href="product-grouped.html">product grouped</a>
+                      <li><a href="#">product grouped</a>
                       </li>
-                      <li><a href="variable-product.html">product variable</a>
+                      <li><a href="#">product variable</a>
                       </li>
                     </ul>
                   </li>
@@ -175,31 +175,31 @@
               <li class="menu-item-has-children">
                 <a href="#">blog</a>
                 <ul class="sub-menu">
-                  <li><a href="blog.html">blog</a></li>
-                  <li><a href="blog-details.html">blog details</a></li>
-                  <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
-                  <li><a href="blog-sidebar.html">blog sidebar</a></li>
+                  <li><a href="#">blog</a></li>
+                  <li><a href="#">blog details</a></li>
+                  <li><a href="#">blog fullwidth</a></li>
+                  <li><a href="#">blog sidebar</a></li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
                 <a href="#">pages </a>
                 <ul class="sub-menu">
-                  <li><a href="about.html">About Us</a></li>
-                  <li><a href="services.html">services</a></li>
-                  <li><a href="faq.html">Frequently Questions</a></li>
-                  <li><a href="contact.html">contact</a></li>
-                  <li><a href="login.html">login</a></li>
-                  <li><a href="404.html">Error 404</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">services</a></li>
+                  <li><a href="#">Frequently Questions</a></li>
+                  <li><a href="#">contact</a></li>
+                  <li><a href="#">login</a></li>
+                  <li><a href="#">Error 404</a></li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
-                <a href="my-account.html">my account</a>
+                <a href="#">my account</a>
               </li>
               <li class="menu-item-has-children">
-                <a href="about.html">about Us</a>
+                <a href="#">about Us</a>
               </li>
               <li class="menu-item-has-children">
-                <a href="contact.html"> Contact Us</a>
+                <a href="#"> Contact Us</a>
               </li>
             </ul>
           </div>
@@ -273,20 +273,20 @@
           </div>
           <div class="col-lg-4 col-md-3 col-sm-3 col-3">
             <div class="logo">
-              <a href="index.html"><img src="{{ asset('img/logo/logo2.png') }}" alt=""></a>
+              <a href="#"><img src="{{ asset('img/logo/logo2.png') }}" alt=""></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 col-sm-7 col-8">
             <div class="header_account_area">
               <div class="header_account_list register">
                 <ul>
-                  <li><a href="login.html">Register</a></li>
+                  <li><a href="#">Register</a></li>
                   <li><span>/</span></li>
-                  <li><a href="login.html">Login</a></li>
+                  <li><a href="#">Login</a></li>
                 </ul>
               </div>
               <div class="header_account_list header_wishlist">
-                <a href="wishlist.html"><span class="lnr lnr-heart"></span>
+                <a href="#"><span class="lnr lnr-heart"></span>
                   <span class="item_count">3</span> </a>
               </div>
               <div class="header_account_list  mini_cart_wrapper">
@@ -341,11 +341,11 @@
                   </div>
                   <div class="mini_cart_footer">
                     <div class="cart_button">
-                      <a href="cart.html"><i class="fa fa-shopping-cart"></i>
+                      <a href="#"><i class="fa fa-shopping-cart"></i>
                         View cart</a>
                     </div>
                     <div class="cart_button">
-                      <a href="checkout.html"><i class="fa fa-sign-in"></i>
+                      <a href="#"><i class="fa fa-sign-in"></i>
                         Checkout</a>
                     </div>
                   </div>
@@ -366,50 +366,50 @@
               <nav>
                 <ul>
                   <li>
-                    <a class="active" href="index.html">home<i class="fa fa-angle-down"></i></a>
+                    <a class="active" href="#">home<i class="fa fa-angle-down"></i></a>
                     <ul class="sub_menu">
-                      <li><a href="index.html">Home shop 1</a></li>
-                      <li><a href="index-2.html">Home shop 2</a></li>
-                      <li><a href="index-3.html">Home shop 3</a></li>
-                      <li><a href="index-4.html">Home shop 4</a></li>
-                      <li><a href="index-5.html">Home shop 5</a></li>
+                      <li><a href="#">Home shop 1</a></li>
+                      <li><a href="#">Home shop 2</a></li>
+                      <li><a href="#">Home shop 3</a></li>
+                      <li><a href="#">Home shop 4</a></li>
+                      <li><a href="#">Home shop 5</a></li>
                     </ul>
                   </li>
                   <li class="mega_items">
-                    <a href="shop.html">shop<i class="fa fa-angle-down"></i></a>
+                    <a href="#">shop<i class="fa fa-angle-down"></i></a>
                     <div class="mega_menu">
                       <ul class="mega_menu_inner">
                         <li><a href="#">Shop Layouts</a>
                           <ul>
-                            <li><a href="shop-fullwidth.html">Full Width</a>
+                            <li><a href="#">Full Width</a>
                             </li>
-                            <li><a href="shop-fullwidth-list.html">Full Width
+                            <li><a href="#">Full Width
                                 list</a></li>
-                            <li><a href="shop-right-sidebar.html">Right
+                            <li><a href="#">Right
                                 Sidebar </a></li>
-                            <li><a href="shop-right-sidebar-list.html"> Right
+                            <li><a href="#"> Right
                                 Sidebar list</a></li>
-                            <li><a href="shop-list.html">List View</a></li>
+                            <li><a href="#">List View</a></li>
                           </ul>
                         </li>
                         <li><a href="#">other Pages</a>
                           <ul>
-                            <li><a href="cart.html">cart</a></li>
-                            <li><a href="wishlist.html">Wishlist</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
-                            <li><a href="my-account.html">my account</a></li>
-                            <li><a href="404.html">Error 404</a></li>
+                            <li><a href="#">cart</a></li>
+                            <li><a href="#">Wishlist</a></li>
+                            <li><a href="#">Checkout</a></li>
+                            <li><a href="#">my account</a></li>
+                            <li><a href="#">Error 404</a></li>
                           </ul>
                         </li>
                         <li><a href="#">Product Types</a>
                           <ul>
-                            <li><a href="product-details.html">product
+                            <li><a href="#">product
                                 details</a></li>
-                            <li><a href="product-sidebar.html">product
+                            <li><a href="#">product
                                 sidebar</a></li>
-                            <li><a href="product-grouped.html">product
+                            <li><a href="#">product
                                 grouped</a></li>
-                            <li><a href="variable-product.html">product
+                            <li><a href="#">product
                                 variable</a></li>
                           </ul>
                         </li>
@@ -417,24 +417,24 @@
                     </div>
                   </li>
                   <li>
-                    <a href="blog.html">blog<i class="fa fa-angle-down"></i></a>
+                    <a href="#">blog<i class="fa fa-angle-down"></i></a>
                     <ul class="sub_menu pages">
-                      <li><a href="blog-details.html">blog details</a></li>
-                      <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
-                      <li><a href="blog-sidebar.html">blog sidebar</a></li>
+                      <li><a href="#">blog details</a></li>
+                      <li><a href="#">blog fullwidth</a></li>
+                      <li><a href="#">blog sidebar</a></li>
                     </ul>
                   </li>
                   <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
                     <ul class="sub_menu pages">
-                      <li><a href="about.html">About Us</a></li>
-                      <li><a href="services.html">services</a></li>
-                      <li><a href="faq.html">Frequently Questions</a></li>
-                      <li><a href="contact.html">contact</a></li>
-                      <li><a href="login.html">login</a></li>
-                      <li><a href="404.html">Error 404</a></li>
+                      <li><a href="#">About Us</a></li>
+                      <li><a href="#">services</a></li>
+                      <li><a href="#">Frequently Questions</a></li>
+                      <li><a href="#">contact</a></li>
+                      <li><a href="#">login</a></li>
+                      <li><a href="#">Error 404</a></li>
                     </ul>
                   </li>
-                  <li><a href="contact.html"> Contact Us</a></li>
+                  <li><a href="#"> Contact Us</a></li>
                   <li><a href="#"> Vegetables</a></li>
                   <li><a href="#"> Fruits</a></li>
                   <li><a href="#"> Salads</a></li>
@@ -463,7 +463,7 @@
                 10% certifled-organic mix of fruit and veggies. Perfect for
                 weekly cooking and snacking!
               </p>
-              <a href="shop.html">Read more </a>
+              <a href="#">Read more </a>
             </div>
           </div>
         </div>
@@ -479,7 +479,7 @@
               <p>
                 Widest range of farm-fresh Vegetables, Fruits & seasonal produce
               </p>
-              <a href="shop.html">Read more </a>
+              <a href="#">Read more </a>
             </div>
           </div>
         </div>
@@ -496,7 +496,7 @@
                 Natural organic tomatoes make your health stronger. Put your
                 information here
               </p>
-              <a href="shop.html">Read more </a>
+              <a href="#">Read more </a>
             </div>
           </div>
         </div>
@@ -512,24 +512,24 @@
       <div class="col-lg-4 col-md-4">
         <div class="single_banner">
           <div class="banner_thumb">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner5.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner5.jpg') }}" alt=""></a>
           </div>
         </div>
       </div>
       <div class="col-lg-5 col-md-5">
         <div class="single_banner">
           <div class="banner_thumb">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner6.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner6.jpg') }}" alt=""></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-md-3">
         <div class="banner2_sidebar">
           <div class="banner_thumb mb-30">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner7.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner7.jpg') }}" alt=""></a>
           </div>
           <div class="banner_thumb">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner8.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner8.jpg') }}" alt=""></a>
           </div>
         </div>
       </div>
@@ -578,8 +578,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -587,13 +587,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -602,7 +602,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Aliquam
+                      <h4 class="product_name"><a href="#">Aliquam
                           Consequat</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -615,21 +615,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -638,7 +638,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Donec
+                      <h4 class="product_name"><a href="#">Donec
                           Non Est</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -651,21 +651,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -674,7 +674,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Etiam
+                      <h4 class="product_name"><a href="#">Etiam
                           Gravida</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -687,8 +687,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -696,13 +696,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -711,7 +711,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Fusce
+                      <h4 class="product_name"><a href="#">Fusce
                           Aliquam</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -724,21 +724,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -747,7 +747,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Letraset
+                      <h4 class="product_name"><a href="#">Letraset
                           Sheets</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -760,8 +760,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -769,13 +769,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -784,7 +784,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Lorem
+                      <h4 class="product_name"><a href="#">Lorem
                           Ipsum Lec</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -801,8 +801,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -810,13 +810,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -825,7 +825,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Mauris
+                      <h4 class="product_name"><a href="#">Mauris
                           Vel Tellus</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -838,21 +838,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -861,7 +861,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Nunc
+                      <h4 class="product_name"><a href="#">Nunc
                           Neque Eros</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -874,21 +874,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -897,7 +897,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Proin
+                      <h4 class="product_name"><a href="#">Proin
                           Lectus Ipsum</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -910,8 +910,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -919,13 +919,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -934,7 +934,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Quisque
+                      <h4 class="product_name"><a href="#">Quisque
                           In Arcu</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -947,21 +947,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -970,7 +970,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Cas
+                      <h4 class="product_name"><a href="#">Cas
                           Meque Metus</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -983,21 +983,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1006,7 +1006,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Aliquam
+                      <h4 class="product_name"><a href="#">Aliquam
                           Consequat</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1023,21 +1023,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1046,7 +1046,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Proin
+                      <h4 class="product_name"><a href="#">Proin
                           Lectus Ipsum</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1059,8 +1059,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -1068,13 +1068,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1083,7 +1083,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Quisque
+                      <h4 class="product_name"><a href="#">Quisque
                           In Arcu</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1096,8 +1096,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -1105,13 +1105,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1120,7 +1120,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Mauris
+                      <h4 class="product_name"><a href="#">Mauris
                           Vel Tellus</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1133,21 +1133,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1156,7 +1156,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Nunc
+                      <h4 class="product_name"><a href="#">Nunc
                           Neque Eros</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1169,8 +1169,8 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                         <span class="label_new">New</span>
@@ -1178,13 +1178,13 @@
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1193,7 +1193,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Aliquam
+                      <h4 class="product_name"><a href="#">Aliquam
                           Consequat</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1206,21 +1206,21 @@
                 <article class="single_product">
                   <figure>
                     <div class="product_thumb">
-                      <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
-                      <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                      <a class="primary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                      <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                       <div class="label_product">
                         <span class="label_sale">Sale</span>
                       </div>
                       <div class="action_links">
                         <ul>
                           <li class="add_to_cart">
-                            <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                            <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                           </li>
                           <li class="quick_button">
                             <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                               <span class="lnr lnr-magnifier"></span></a></li>
                           <li class="wishlist">
-                            <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                            <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                           </li>
                           <li class="compare">
                             <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1229,7 +1229,7 @@
                       </div>
                     </div>
                     <figcaption class="product_content">
-                      <h4 class="product_name"><a href="product-details.html">Donec
+                      <h4 class="product_name"><a href="#">Donec
                           Non Est</a></h4>
                       <p><a href="#">Fruits</a></p>
                       <div class="price_box">
@@ -1266,8 +1266,8 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product20.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product21.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product20.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product21.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                     <span class="label_new">New</span>
@@ -1275,13 +1275,13 @@
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1290,7 +1290,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Quisque
+                  <h4 class="product_name"><a href="#">Quisque
                       In Arcu</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1303,21 +1303,21 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product15.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product14.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product15.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product14.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                   </div>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1326,7 +1326,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Cas
+                  <h4 class="product_name"><a href="#">Cas
                       Meque Metus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1339,21 +1339,21 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product17.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product16.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product17.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product16.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                   </div>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1362,7 +1362,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Aliquam
+                  <h4 class="product_name"><a href="#">Aliquam
                       Consequat</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1375,8 +1375,8 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product14.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product15.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product14.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product15.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                     <span class="label_new">New</span>
@@ -1384,13 +1384,13 @@
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1399,7 +1399,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Mauris
+                  <h4 class="product_name"><a href="#">Mauris
                       Vel Tellus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1412,21 +1412,21 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product16.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product17.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product16.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product17.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                   </div>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1435,7 +1435,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Nunc
+                  <h4 class="product_name"><a href="#">Nunc
                       Neque Eros</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1448,21 +1448,21 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product18.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product19.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product18.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product19.jpg') }}" alt=""></a>
                   <div class="label_product">
                     <span class="label_sale">Sale</span>
                   </div>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1471,7 +1471,7 @@
                   </div>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Proin
+                  <h4 class="product_name"><a href="#">Proin
                       Lectus Ipsum</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="price_box">
@@ -1496,7 +1496,7 @@
         <div class="banner_full_content">
           <p>Black Fridays !</p>
           <h2>Sale 50% OFf <span>all vegetable products</span></h2>
-          <a href="shop.html">discover now</a>
+          <a href="#">discover now</a>
         </div>
       </div>
     </div>
@@ -1518,7 +1518,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-5">
           <div class="banner_thumb">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner4.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner4.jpg') }}" alt=""></a>
           </div>
         </div>
         <div class="col-lg-8 col-md-7">
@@ -1527,23 +1527,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Aliquam
+                    <h4 class="product_name"><a href="#">Aliquam
                         Consequat</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1560,23 +1560,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Donec
+                    <h4 class="product_name"><a href="#">Donec
                         Non Est</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1593,23 +1593,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Mauris
+                    <h4 class="product_name"><a href="#">Mauris
                         Vel Tellus</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1628,23 +1628,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Quisque
+                    <h4 class="product_name"><a href="#">Quisque
                         In Arcu</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1661,23 +1661,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Cas
+                    <h4 class="product_name"><a href="#">Cas
                         Meque Metus</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1694,23 +1694,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Proin
+                    <h4 class="product_name"><a href="#">Proin
                         Lectus Ipsum</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1729,23 +1729,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Mauris
+                    <h4 class="product_name"><a href="#">Mauris
                         Vel Tellus</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1762,23 +1762,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Donec
+                    <h4 class="product_name"><a href="#">Donec
                         Non Est</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1795,23 +1795,23 @@
               <article class="single_product">
                 <figure>
                   <div class="product_thumb">
-                    <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
-                    <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                    <a class="primary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                    <a class="secondary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
                   </div>
                   <figcaption class="product_content">
-                    <h4 class="product_name"><a href="product-details.html">Donec
+                    <h4 class="product_name"><a href="#">Donec
                         Non Est</a></h4>
                     <p><a href="#">Fruits</a></p>
                     <div class="action_links">
                       <ul>
                         <li class="add_to_cart">
-                          <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                          <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                         </li>
                         <li class="quick_button">
                           <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                             <span class="lnr lnr-magnifier"></span></a></li>
                         <li class="wishlist">
-                          <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                          <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                         </li>
                         <li class="compare">
                           <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1850,17 +1850,17 @@
           <article class="single_blog">
             <figure>
               <div class="blog_thumb">
-                <a href="blog-details.html"><img src="{{ asset('img/blog/blog1.jpg') }}" alt=""></a>
+                <a href="#"><img src="{{ asset('img/blog/blog1.jpg') }}" alt=""></a>
               </div>
               <figcaption class="blog_content">
                 <div class="articles_date">
                   <p>18/01/2019 | <a href="#">eCommerce</a></p>
                 </div>
-                <h4 class="post_title"><a href="blog-details.html">Lorem ipsum
+                <h4 class="post_title"><a href="#">Lorem ipsum
                     dolor sit amet, elit. Impedit, aliquam animi, saepe ex.</a>
                 </h4>
                 <footer class="blog_footer">
-                  <a href="blog-details.html">Show more</a>
+                  <a href="#">Show more</a>
                 </footer>
               </figcaption>
             </figure>
@@ -1870,17 +1870,17 @@
           <article class="single_blog">
             <figure>
               <div class="blog_thumb">
-                <a href="blog-details.html"><img src="{{ asset('img/blog/blog2.jpg') }}" alt=""></a>
+                <a href="#"><img src="{{ asset('img/blog/blog2.jpg') }}" alt=""></a>
               </div>
               <figcaption class="blog_content">
                 <div class="articles_date">
                   <p>18/01/2019 | <a href="#">eCommerce</a></p>
                 </div>
-                <h4 class="post_title"><a href="blog-details.html"> dolor sit
+                <h4 class="post_title"><a href="#"> dolor sit
                     amet, elit. Illo iste sed animi quaerat nobis odit
                     nulla.</a></h4>
                 <footer class="blog_footer">
-                  <a href="blog-details.html">Show more</a>
+                  <a href="#">Show more</a>
                 </footer>
               </figcaption>
             </figure>
@@ -1890,17 +1890,17 @@
           <article class="single_blog">
             <figure>
               <div class="blog_thumb">
-                <a href="blog-details.html"><img src="{{ asset('img/blog/blog3.jpg') }}" alt=""></a>
+                <a href="#"><img src="{{ asset('img/blog/blog3.jpg') }}" alt=""></a>
               </div>
               <figcaption class="blog_content">
                 <div class="articles_date">
                   <p>18/01/2019 | <a href="#">eCommerce</a></p>
                 </div>
-                <h4 class="post_title"><a href="blog-details.html">maxime
+                <h4 class="post_title"><a href="#">maxime
                     laborum voluptas minus, est, unde eaque esse tenetur.</a>
                 </h4>
                 <footer class="blog_footer">
-                  <a href="blog-details.html">Show more</a>
+                  <a href="#">Show more</a>
                 </footer>
               </figcaption>
             </figure>
@@ -1910,17 +1910,17 @@
           <article class="single_blog">
             <figure>
               <div class="blog_thumb">
-                <a href="blog-details.html"><img src="{{ asset('img/blog/blog2.jpg') }}" alt=""></a>
+                <a href="#"><img src="{{ asset('img/blog/blog2.jpg') }}" alt=""></a>
               </div>
               <figcaption class="blog_content">
                 <div class="articles_date">
                   <p>18/01/2019 | <a href="#">eCommerce</a></p>
                 </div>
-                <h4 class="post_title"><a href="blog-details.html">Lorem ipsum
+                <h4 class="post_title"><a href="#">Lorem ipsum
                     dolor sit amet, elit. Impedit, aliquam animi, saepe ex.</a>
                 </h4>
                 <footer class="blog_footer">
-                  <a href="blog-details.html">Show more</a>
+                  <a href="#">Show more</a>
                 </footer>
               </figcaption>
             </figure>
@@ -1938,7 +1938,7 @@
       <div class="col-12">
         <div class="single_banner">
           <div class="banner_thumb">
-            <a href="shop.html"><img src="{{ asset('img/bg/banner9.jpg') }}" alt=""></a>
+            <a href="#"><img src="{{ asset('img/bg/banner9.jpg') }}" alt=""></a>
           </div>
         </div>
       </div>
@@ -1964,23 +1964,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Aliquam
+                  <h4 class="product_name"><a href="#">Aliquam
                       Consequat</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -1997,23 +1997,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product4.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Donec
+                  <h4 class="product_name"><a href="#">Donec
                       Non Est</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2030,23 +2030,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product6.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Mauris
+                  <h4 class="product_name"><a href="#">Mauris
                       Vel Tellus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2065,23 +2065,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product7.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Quisque
+                  <h4 class="product_name"><a href="#">Quisque
                       In Arcu</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2098,23 +2098,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Cas
+                  <h4 class="product_name"><a href="#">Cas
                       Meque Metus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2131,23 +2131,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product12.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Proin
+                  <h4 class="product_name"><a href="#">Proin
                       Lectus Ipsum</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2166,23 +2166,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product13.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Mauris
+                  <h4 class="product_name"><a href="#">Mauris
                       Vel Tellus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2199,23 +2199,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product3.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Donec
+                  <h4 class="product_name"><a href="#">Donec
                       Non Est</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2232,23 +2232,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product5.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Donec
+                  <h4 class="product_name"><a href="#">Donec
                       Non Est</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2267,23 +2267,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product1.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product2.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Aliquam
+                  <h4 class="product_name"><a href="#">Aliquam
                       Consequat</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2300,23 +2300,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product11.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product10.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Donec
+                  <h4 class="product_name"><a href="#">Donec
                       Non Est</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2333,23 +2333,23 @@
             <article class="single_product">
               <figure>
                 <div class="product_thumb">
-                  <a class="primary_img" href="product-details.html"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
-                  <a class="secondary_img" href="product-details.html"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
+                  <a class="primary_img" href="#"><img src="{{ asset('img/product/product9.jpg') }}" alt=""></a>
+                  <a class="secondary_img" href="#"><img src="{{ asset('img/product/product8.jpg') }}" alt=""></a>
                 </div>
                 <figcaption class="product_content">
-                  <h4 class="product_name"><a href="product-details.html">Mauris
+                  <h4 class="product_name"><a href="#">Mauris
                       Vel Tellus</a></h4>
                   <p><a href="#">Fruits</a></p>
                   <div class="action_links">
                     <ul>
                       <li class="add_to_cart">
-                        <a href="cart.html" title="Add to cart"><span class="lnr lnr-cart"></span></a>
+                        <a href="#" title="Add to cart"><span class="lnr lnr-cart"></span></a>
                       </li>
                       <li class="quick_button">
                         <a href="#" data-toggle="modal" data-target="#modal_box" title="quick view">
                           <span class="lnr lnr-magnifier"></span></a></li>
                       <li class="wishlist">
-                        <a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
+                        <a href="#" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a>
                       </li>
                       <li class="compare">
                         <a href="#" title="Add to Compare"><span class="lnr lnr-sync"></span></a>
@@ -2405,7 +2405,7 @@
         <div class="col-lg-4 col-md-12 col-sm-7">
           <div class="widgets_container contact_us">
             <div class="footer_logo">
-              <a href="index.html"><img src="{{ asset('img/logo/logo.png') }}" alt=""></a>
+              <a href="#"><img src="{{ asset('img/logo/logo.png') }}" alt=""></a>
             </div>
             <p class="footer_desc">We are a team of designers and developers
               that create high quality eCommerce, WordPress, Shopify .</p>
@@ -2420,11 +2420,11 @@
             <h3>Information</h3>
             <div class="footer_menu">
               <ul>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="#">About Us</a></li>
                 <li><a href="#">Delivery Information</a></li>
                 <li><a href="#"> Privacy Policy</a></li>
                 <li><a href="#"> Terms & Conditions</a></li>
-                <li><a href="contact.html"> Contact Us</a></li>
+                <li><a href="#"> Contact Us</a></li>
                 <li><a href="#"> Site Map</a></li>
               </ul>
             </div>
