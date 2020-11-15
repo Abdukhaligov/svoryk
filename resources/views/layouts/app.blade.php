@@ -212,6 +212,11 @@
   </div>
 </div>
 <!--offcanvas menu area end-->
+<style>
+  .categories_title h2::after, .categories_title h2::before{
+    color: #40A944;;
+  }
+</style>
 <header>
   <div class="main_header header_two">
     <div class="header_top">
@@ -360,9 +365,39 @@
     <div class="header_bottom sticky-header">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-lg-8 offset-lg-2">
+          <div class="col-lg-3 col-md-6">
+            <div class="categories_menu">
+              <div class="categories_title" style="background: none;">
+                <h2 class="categori_toggle" style="color: #40A944;">All
+                  Cattegories</h2>
+              </div>
+              <div class="categories_menu_toggle">
+                <ul>
+                  @foreach(\App\Models\ProductCategory::where("parent_id", NULL)->get() as $category)
+                    <li class="menu_item_children">
+                      <a href="#">{{$category->name}}
+                        <i class="fa fa-angle-right"></i></a>
+                      <ul class="categories_mega_menu">
+                        @foreach($category["children"] as $child)
+                          <li class="menu_item_children">
+                            <a href="#">{{$child->name}}</a>
+                            <ul class="categorie_sub_menu">
+                              @foreach($child["children"] as $childOfChild)
+                              <li><a href="#">{{$childOfChild->name}}</a></li>
+                              @endforeach
+                            </ul>
+                          </li>
+                        @endforeach
+                      </ul>
+                    </li>
+                  @endforeach
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-8">
             <!--main menu start-->
-            <div class="main_menu  menu_two color_two menu_position">
+            <div class="main_menu color_two menu_position">
               <nav>
                 <ul>
                   <li>
@@ -415,24 +450,6 @@
                         </li>
                       </ul>
                     </div>
-                  </li>
-                  <li>
-                    <a href="#">blog<i class="fa fa-angle-down"></i></a>
-                    <ul class="sub_menu pages">
-                      <li><a href="#">blog details</a></li>
-                      <li><a href="#">blog fullwidth</a></li>
-                      <li><a href="#">blog sidebar</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
-                    <ul class="sub_menu pages">
-                      <li><a href="#">About Us</a></li>
-                      <li><a href="#">services</a></li>
-                      <li><a href="#">Frequently Questions</a></li>
-                      <li><a href="#">contact</a></li>
-                      <li><a href="#">login</a></li>
-                      <li><a href="#">Error 404</a></li>
-                    </ul>
                   </li>
                   <li><a href="#"> Contact Us</a></li>
                   <li><a href="#"> Vegetables</a></li>

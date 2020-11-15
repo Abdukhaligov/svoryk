@@ -6,7 +6,9 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 /**
+ * @property string name
  * @method static create(array $array)
+ * @method static where(string $string, $parameter)
  */
 class ProductCategory extends Model {
   use HasFactory;
